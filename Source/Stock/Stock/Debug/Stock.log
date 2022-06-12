@@ -1,0 +1,220 @@
+﻿Сборка начата 07.05.2014 17:46:49.
+     1>Проект "C:\Users\Андрій\Downloads\branchsale\Source\Stock\Stock\Stock.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MetaGen.targets(91,5): warning : Required file "C:\USERS\FAKE\DOWNLOADS\STOCK\DEBUG\MYSQL.DATA.DLL" is missing.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Users\Андрій\Downloads\branchsale\Source\Stock\Debug\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Configuration.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib BranchForm.cpp ClientForm.cpp Dictionaries.cpp ExpenceForm.cpp ExpenseForm.cpp ItemForm.cpp Main.cpp MySqlInterface.cpp PaymentForm.cpp SaleForm.cpp SaleItemForm.cpp Stock.cpp StockForm.cpp
+         BranchForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\BranchForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+         ClientForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ClientForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+         Dictionaries.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\BranchForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ItemForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenceForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ClientForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(508): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(523): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(540): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(560): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(577): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(612): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(631): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(648): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(666): warning C4101: ex: неиспользованная локальная переменная
+         ExpenceForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenceForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+         ExpenseForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenseForm.h(239): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenseForm.h(282): warning C4101: e: неиспользованная локальная переменная
+         ItemForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ItemForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+         Main.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\BranchForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ItemForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenceForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ClientForm.h(18): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(508): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(523): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(540): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(560): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(577): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(612): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(631): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(648): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Dictionaries.h(666): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\StockForm.h(240): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\StockForm.h(281): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Stock.h(159): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Stock.h(173): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Stock.h(190): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(407): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(434): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(458): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(482): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(499): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenseForm.h(239): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\ExpenseForm.h(282): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\PaymentForm.h(209): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\PaymentForm.h(245): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1682): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1708): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1886): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1900): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1912): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1931): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1950): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(1999): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(2017): warning C4101: ex: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Main.h(2035): warning C4101: ex: неиспользованная локальная переменная
+         MySqlInterface.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+         PaymentForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\PaymentForm.h(209): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\PaymentForm.h(245): warning C4101: e: неиспользованная локальная переменная
+         SaleForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(407): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(434): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(458): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(482): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\SaleForm.h(499): warning C4101: e: неиспользованная локальная переменная
+         SaleItemForm.cpp
+         Stock.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\StockForm.h(240): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\StockForm.h(281): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Stock.h(159): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Stock.h(173): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\Stock.h(190): warning C4101: ex: неиспользованная локальная переменная
+         StockForm.cpp
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(41): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(74): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(107): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(140): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(173): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(174): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(236): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(379): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\MySqlInterface.h(423): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\StockForm.h(240): warning C4101: e: неиспользованная локальная переменная
+     1>c:\users\андрій\downloads\branchsale\source\stock\stock\StockForm.h(281): warning C4101: e: неиспользованная локальная переменная
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Андрій\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Андрій\Downloads\branchsale\Source\Stock\Debug\Stock.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Stock.BranchForm.resources /ASSEMBLYRESOURCE:Debug\Stock.ClientForm.resources /ASSEMBLYRESOURCE:Debug\Stock.Dictionaries.resources /ASSEMBLYRESOURCE:Debug\Stock.ExpenceForm.resources /ASSEMBLYRESOURCE:Debug\Stock.ExpenseForm.resources /ASSEMBLYRESOURCE:Debug\Stock.ItemForm.resources /ASSEMBLYRESOURCE:Debug\Stock.Main.resources /ASSEMBLYRESOURCE:Debug\Stock.PaymentForm.resources /ASSEMBLYRESOURCE:Debug\Stock.SaleForm.resources /ASSEMBLYRESOURCE:Debug\Stock.SaleItemForm.resources /ASSEMBLYRESOURCE:Debug\Stock.Stock.resources /ASSEMBLYRESOURCE:Debug\Stock.StockForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Андрій\Downloads\branchsale\Source\Stock\Debug\Stock.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\BranchForm.obj
+         Debug\ClientForm.obj
+         Debug\Dictionaries.obj
+         Debug\ExpenceForm.obj
+         Debug\ExpenseForm.obj
+         Debug\ItemForm.obj
+         Debug\Main.obj
+         Debug\MySqlInterface.obj
+         Debug\PaymentForm.obj
+         Debug\SaleForm.obj
+         Debug\SaleItemForm.obj
+         Debug\Stock.obj
+         Debug\StockForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Stock.vcxproj -> C:\Users\Андрій\Downloads\branchsale\Source\Stock\Debug\Stock.exe
+     1>Сборка проекта "C:\Users\Андрій\Downloads\branchsale\Source\Stock\Stock\Stock.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:06.05
